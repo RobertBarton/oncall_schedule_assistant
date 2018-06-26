@@ -1,0 +1,3 @@
+Config:
+  schedule_name: myschedule
+  timezone: Europe/London
